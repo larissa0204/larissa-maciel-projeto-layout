@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[118],{udKT:function(n,o,t){"use strict";t.r(o);var e,a=t("jeuC"),i=t("xPkE"),_=Object(i.b)(e||(e=Object(a.a)(["\n  body {\n    color: #666;\n    background: #f1f1f1;\n    font-family: ",";\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n  }\n  a {\n    text-decoration: none;\n    color: #666;\n  }\n"])),(function(n){return n.theme.fontFamily}));o.default=_}}]);
+//# sourceMappingURL=catalogo-ui-americanas-desktop-global-style.c17fee67028c00a29502.js.map

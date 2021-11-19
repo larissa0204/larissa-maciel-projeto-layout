@@ -1,0 +1,22 @@
+
+
+.navbar-white-links{
+    color: white;
+}
+
+.biggy-storefront-title{
+    display: block;
+    margin: 5px 0 20px 0;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 38px;
+    padding: -9px;
+
+}
+
+.d-flex justify-content-center{
+    color: white;
+}
+
+
